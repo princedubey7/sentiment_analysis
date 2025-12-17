@@ -1,0 +1,2 @@
+1	Start Flask API	flask --app api.py run --port=5000
+2	Start Streamlit UI	streamlit run main.py
